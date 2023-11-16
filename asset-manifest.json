@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LeaaJr.github.io.git/static/css/main.63ffa884.css",
+    "main.js": "/LeaaJr.github.io.git/static/js/main.62557851.js",
+    "static/media/hero-dark.jpg": "/LeaaJr.github.io.git/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/LeaaJr.github.io.git/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/LeaaJr.github.io.git/service-worker.js",
+    "static/media/GH.svg": "/LeaaJr.github.io.git/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/LeaaJr.github.io.git/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/LeaaJr.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LeaaJr.github.io.git/index.html",
+    "main.63ffa884.css.map": "/LeaaJr.github.io.git/static/css/main.63ffa884.css.map",
+    "main.62557851.js.map": "/LeaaJr.github.io.git/static/js/main.62557851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffa884.css",
+    "static/js/main.62557851.js"
+  ]
+}
